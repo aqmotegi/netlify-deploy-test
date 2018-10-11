@@ -6,7 +6,7 @@
         sample-nuxt
       </h1>
       <h2 class="subtitle">
-        My transcendent Nuxt.js project
+        My transcendent Nuxt.js projectaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
       </h2>
       <div class="links">
         <a
